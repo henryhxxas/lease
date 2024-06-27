@@ -1,5 +1,7 @@
 # lease
 爱森公寓（使用SSM+springboot进行开发）
+![image](https://github.com/henryhxxas/lease/assets/140055415/572cc05d-25e6-46a4-952b-39adf7dfa2ef)
+
 # 1. 项目概述
 
 ## 1.1 项目业务概述
